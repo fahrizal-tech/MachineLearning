@@ -21,9 +21,10 @@ Proyek ini berisi rangkaian tugas mata kuliah Machine Learning, mulai dari persi
 
 1.  Pastikan semua library di `requirements.txt` terinstal.
 2.  Jalankan skrip dari dalam folder `scripts/`.
+3.  Simpan semua file python dan data dalam 1 folder yang sama
     ```bash
     cd scripts
-    python tugas_pertemuan_4.py
-    python tugas_pertemuan_5.py
+    python Tugas4.py
+    python Tugas5.py
     # dan seterusnya
     ```
